@@ -3,10 +3,6 @@
 Smart-Doc - Expo React Native
 </h1>
 
-<!-- Title -->
-<h2 align="center">
-Made with love by  -- Code_Pappi --
-</h2>
 
 The chat app project was created with React-Native app using [Expo Cli](https://github.com/expo).
 
